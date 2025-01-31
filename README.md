@@ -57,12 +57,11 @@ pillow
 
 --> pip install -r requirements.txt
 **🤝 Contributing**
-Contributions are welcome! Please follow these steps:
 
-**Fork the repository**
-**Create a new branch (git checkout -b feature/YourFeature)**
-**Commit your changes (git commit -m 'Add some feature')**
-**Push to the branch (git push origin feature/YourFeature)**
-**Open a Pull Request**
+1) Fork the repository
+2) Create a new branch (git checkout -b feature/YourFeature)
+3) Commit your changes (git commit -m 'Add some feature')**
+4) Push to the branch (git push origin feature/YourFeature)**
+5) Open a Pull Request
 
 **check my youtube video**
