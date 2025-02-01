@@ -1,6 +1,6 @@
 
 
-Welcome to the **AI-Powered-Text-to-Image-Generator-** This project leverages the power of the Stable Diffusion model to generate stunning images from text prompts. Whether you're an artist, developer, or enthusiast, this tool allows you to create high-quality images effortlessly.
+Welcome to the **AI-Powered-Text-to-Image-Generator-** This project leverages the power of the Stable Diffusion model to generate stunning images from text prompts. Whether you're an artist, developer, or enthusiast, this tool allows you to create high-quality images effortlessly.....
 
 
 
